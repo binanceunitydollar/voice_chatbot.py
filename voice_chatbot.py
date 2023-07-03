@@ -68,7 +68,7 @@ def generate_response(prompt):
 
 
 # Load OpenAI API key from configuration file
-openai.api_key = API_KEY
+openai.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 = API_KEY
 
 
 # Main program loop
